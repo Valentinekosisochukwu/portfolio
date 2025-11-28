@@ -90,7 +90,7 @@ function hero() {
           </Button>
         </Link>
 
-        <Link href="/resume"  rel="noopener noreferrer">
+        <Link href="https://docs.google.com/document/d/1_ggk_ZjdNDcVDbgKYKsk68Wx-m36OiVQ/edit"  rel="noopener noreferrer">
           <Button
             variant="default"
             className="cursor-pointer hover:bg-gray-700 hover:text-white transition-all duration-500"
